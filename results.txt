@@ -1,0 +1,2 @@
+Type integer, each followed by Enter; or ^D or ^Z to finish
+Count = 6 Total = 252 Mean = 42.0
